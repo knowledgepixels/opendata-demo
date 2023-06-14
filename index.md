@@ -13,3 +13,11 @@ Go to [Nanodash](https://nanodash.petapico.org/publish?template=http://purl.org/
 (In case there are problems with the link above, there is [another Nanodash instance](https://nanodash.np.trustyuri.net/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&template-version=latest).)
 
 Nanodash will ask you to login with ORCID first. The link then leads you to the form where you can publish your opinion about something that is over- or underrated.
+
+## 3. Check out all published opinions
+
+We can now query the network to find all such opinions:
+
+- [All over-/underrated opinions](https://peta-pico.github.io/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/get-entries&autosubmit=on)
+- [Top overrated things](https://peta-pico.github.io/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/top-overrated&autosubmit=on)
+- [Top underrated things](https://peta-pico.github.io/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/top-underrated&autosubmit=on)
