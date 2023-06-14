@@ -20,6 +20,14 @@ We can now query the network to find all such opinions:
 
 ## 4. Introduce yourself and be approved by community
 
-To properly introduce yourself to the nanopublication network, you can publish an introduction via your [Nanodash profile page](https://nanodash.petapico.org/profile).
+To properly introduce yourself, you can publish an introduction via your [Nanodash profile page](https://nanodash.petapico.org/profile).
 
-Somebody on the list of [approved users](https://nanodash.petapico.org/userlist) can now approve your introduction, so the community knows that you and your nanopublications can be trusted.
+Somebody on the list of [approved users](https://nanodash.petapico.org/userlist) can now approve your introduction.
+
+---
+
+## Further links
+
+- [Nanopublications](https://nanopub.net)
+- [Nanopub monitor](https://monitor.petapico.org/) ([alternative](https://monitor.np.trustyuri.net/))
+- [Knowledge Pixels](https://knowledgepixels.com)
