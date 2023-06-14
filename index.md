@@ -12,6 +12,4 @@ Go to [Nanodash](https://nanodash.petapico.org/publish?template=http://purl.org/
 
 (In case there are problems with the link above, there is [another Nanodash instance](https://nanodash.np.trustyuri.net/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&template-version=latest).)
 
-Nanodash will ask you to login with ORCID first. The link above then directly leads you to the publishing form for "stating an opinion that something is over-/underrated".
-
-Fill in the assertion (blue) part to express an opinion. Then check the checkbox at the end and click "Publish".
+Nanodash will ask you to login with ORCID first. The link then leads you to the form where you can publish your opinion about something that is over- or underrated.
