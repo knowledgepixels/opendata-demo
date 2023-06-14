@@ -8,11 +8,7 @@ You will need an [ORCID](https://orcid.org/) account for this hands-on demo.
 
 ## 2. Publish a piece of open data with Nanodash
 
-Go to [Nanodash](https://nanodash.petapico.org/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&template-version=latest).
-
-(In case there are problems with the link above, there is [another Nanodash instance](https://nanodash.np.trustyuri.net/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&template-version=latest).)
-
-Nanodash will ask you to login with ORCID first. The link then leads you to the form where you can publish your opinion about something being over-/underrated.
+Go to [Nanodash](https://nanodash.petapico.org/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&template-version=latest) (or this [alternative Nanodash instance](https://nanodash.np.trustyuri.net/publish?template=http://purl.org/np/RA6p8TsYKPUmy6yoKuxjBKn2vRKczjIWrcS2lyyX61myE&template-version=latest)).
 
 ## 3. Check out all published opinions
 
