@@ -16,7 +16,7 @@ We can now query the network to find all such opinions:
 
 - [All over-/underrated opinions](https://peta-pico.github.io/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/get-entries&autosubmit=on) ([alternative](https://petapico.org/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/get-entries&autosubmit=on))
 - [Top overrated things](https://peta-pico.github.io/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/top-overrated&autosubmit=on) ([alternative](https://petapico.org/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/top-overrated&autosubmit=on))
-- [Top underrated things](https://peta-pico.github.io/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/top-underrated&autosubmit=on) ([alternative](https://petapico.org/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/top-overrated&autosubmit=on))
+- [Top underrated things](https://peta-pico.github.io/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/top-underrated&autosubmit=on) ([alternative](https://petapico.org/tapas/tapas.html?api=knowledgepixels/overunderrated-queries&op=/top-underrated&autosubmit=on))
 
 ## 4. Introduce yourself and be approved by community
 
